@@ -1,3 +1,3 @@
-# Task 1 - Landing Page
+# Task 1 - portfolio 
 
-A simple landing page created using HTML and CSS as part of the CodeSoft Web Development Internship.
+A portfolio created using HTML and CSS as part of the CodeSoft Web Development Internship.
